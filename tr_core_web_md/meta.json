@@ -16,8 +16,8 @@
       "author":"Türk, Utku; Atmaca, Furkan; Özateş,Şaziye Betül; Berk, Gözde; Bedir, Seyyit Talha; Köksal, Abdullatif; Öztürk Başaran, Balkız; Güngör, Tunga; Özgür, Arzucan"
     },
     {
-      "name":"Turkish Newspaper NER dataset",
-      "url":"https://github.com/turkish-nlp-suite/NER-datasets/tree/main/Turkish-NewsPaper-NER-Dataset",
+      "name":"Turkish Wiki NER dataset",
+      "url":"https://github.com/turkish-nlp-suite/NER-datasets/tree/main/Turkish-Wiki-NER-Dataset",
       "license":"MIT",
       "author":"Duygu Altinok, Co-one Istanbul"
     },
