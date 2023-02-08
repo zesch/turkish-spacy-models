@@ -39,5 +39,6 @@ doc = nlp("Dün ben de gittim.")
 Documentation is available on our website: [TODO]
 
 ## Tutorials
-Please visit my channel and find the details in my upcoming book "Handbook of Turkish NLP"
+Please visit my channel for two playlists [Hızlı spaCy Türkçe Tarifleri](https://www.youtube.com/playlist?list=PLJTHlIwB8VcoWxYHnsZOQCxWOraW42NBj) and [spaCy modeli nasıl yapılır](buraya link). You'll find quick recipes with spaCy Turkish in the first playlist and the second playlist gives details of how to train&package a model for a new language.
 
+This work is supported by Google Developer Experts Program. Part of Duygu 2023 Fall-Winter collection, "Turkish NLP with Duygu"/ "Duygu'yla Türkçe NLP". All rights reserved.
